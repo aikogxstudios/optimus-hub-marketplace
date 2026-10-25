@@ -1,20 +1,9 @@
-# Optimus Hub Marketplace
+﻿# Deprecated
 
-The marketplace index for [Optimus Hub](https://github.com/aikogxstudios/optimus-hub-plugin), a plugin marketplace for [Orca ADE](https://www.onorca.dev).
+This repository is no longer used.
 
-## Use it
+The marketplace index now lives inside the plugin repository:
 
-1. In Orca: **Settings → Plugins → Manage sources**.
-2. Add this repository:
+https://github.com/aikogxstudios/optimus-hub-plugin
 
-```
-https://github.com/aikogxstudios/optimus-hub-marketplace.git
-```
-
-3. **Refresh**, then install **Optimus Hub** from the list.
-
-Add the source, not the plugin URL directly: only marketplace installs report **Check for update** when a new tag is published.
-
-## Contents
-
-`orca-marketplace.json` — the index Orca reads. One entry, pointing at a tagged release of the plugin repository.
+Add that repository as a marketplace source in Orca: **Settings → Plugins → Manage sources**.
