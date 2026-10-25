@@ -9,7 +9,7 @@
                                        "url":  "https://github.com/aikogxstudios/optimus-hub-plugin.git",
                                        "ref":  "v0.2.0"
                                    },
-                        "description":  "Marketplace de skills, plugins y servidores MCP para agentes de Orca ADE.",
+                        "description":  "Marketplace of skills, plugins, and MCP servers for Orca ADE agents.",
                         "categories":  [
                                            "marketplace",
                                            "tools",
@@ -18,3 +18,4 @@
                     }
                 ]
 }
+
